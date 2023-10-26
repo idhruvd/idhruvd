@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idhruvd
-- 👀 I’m a Java Developer and continue to learn and strive to practice more of it every day. 
-- 💞️ I'm also interested in Photography and travelling when I am not coding.
+- 👀 I’m a Software Engineer and strive to practice more coding every day. 
+- 💞️ I love travelling and have a passion for photography as well.
 
 
 <!---
